@@ -1,0 +1,42 @@
+.vaa
+{
+  color:orangered;
+}
+.font
+{
+  font-family: sans-serif;
+  font-weight: bolder;
+}
+.font-bold
+{
+  font-weight: 800;
+}
+.btn
+{
+  margin-top:150px;
+}
+.grid1
+{
+  width: 50%;
+}
+.navbar-nav
+{
+  margin-left: auto;
+}
+.carousel-item img
+{
+ width: auto;
+ height: 250px;
+ margin: auto; 
+ display: block;
+}
+.carousel-inner
+{
+  margin:auto;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
